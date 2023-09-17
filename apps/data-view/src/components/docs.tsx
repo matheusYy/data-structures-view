@@ -26,9 +26,7 @@ function Box(props: BoxTypes): JSX.Element {
    {title}
  </div>
 
- {links.map((name) => {
-  return <Link href={name} key={name.length} />
- })}
+
  
  </>
  );

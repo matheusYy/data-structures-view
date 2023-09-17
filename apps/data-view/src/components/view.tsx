@@ -1,6 +1,4 @@
-interface Props {
- 
-}
+
 
 interface DefineLineProps {
  identifier: string;
@@ -63,7 +61,7 @@ function createHeap(value: string | number, ast: HeapStruct) {
   if(ast.root.value <= value) {
    
   } else {
-   
+
   }
  }
  
