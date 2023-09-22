@@ -26,7 +26,6 @@ function Box(props: BoxTypes): JSX.Element {
    {title}
  </div>
 
-
  
  </>
  );
@@ -38,6 +37,7 @@ export function Docs(): JSX.Element {
   <div>
     title
   </div>
+
    <Link href="/" />
   </>
  )

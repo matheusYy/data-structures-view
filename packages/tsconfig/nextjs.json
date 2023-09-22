@@ -1,5 +1,5 @@
 {
-  "$schema": "https://json.schemastore.org/tsconfig",
+  "$schema": "http://json-schema.org/draft-04/schema#",
   "display": "Next.js",
   "extends": "./base.json",
   "compilerOptions": {

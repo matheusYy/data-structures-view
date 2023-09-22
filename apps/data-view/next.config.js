@@ -1,5 +1,6 @@
-module.exports = {
+exports = {
   reactStrictMode: true,
+  transpilePackages: ['three'],
   images: {
     remotePatterns: [
       {
